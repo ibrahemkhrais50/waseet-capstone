@@ -1,0 +1,9 @@
+﻿data/
+curated/
+__pycache__/
+*.pyc
+logs/
+quarantine/
+airflow_logs/
+venv/
+.venv/
